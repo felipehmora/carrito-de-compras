@@ -1,0 +1,53 @@
+		*{
+			font-family: helvetica;
+		}
+		h1{
+			background-color: blue;
+			color: white;
+			padding: 15px;
+			text-align: center;
+		}
+		h2, h3{
+			text-align: center;
+		}
+		.mensaje{
+			padding: 15px;
+			text-align: center;
+			color: white;
+		}
+		.error{
+			background-color: red;
+		}
+		.alerta{
+			background-color: orange;
+		}
+		.completado{
+			background-color: green;
+		}
+		#catalogo{
+			width: 70%;
+		}
+		#articulo{
+			width: 33%;
+			text-align: center;
+			border-color: blue;
+			border-style: solid;
+			border-width: 1px;
+			border-radius: 5%;
+
+		}
+		.img_ver{
+			width: 150px;
+			height: 150px;
+		}
+		#ver_carrito{
+			width: 80%;
+		}
+		.detalle_ver_carrito{
+			width: 20%;
+		}
+		.total{
+			border-top-style: solid;
+			border-top-color: gray;
+			border-top-width: 2px;"
+		}
